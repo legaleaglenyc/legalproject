@@ -14,6 +14,8 @@ Started 3 November 2026. Each authority is checked once and then reused without 
 **Source key.**
 - CL-A = CourtListener citation analysis, batch A
 - CL-B = CourtListener citation analysis, batch B
+- CL-C = CourtListener citation analysis, batch C
+- CL-D = CourtListener citation analysis, batch D
 - CL-S = CourtListener search
 - WS = web search
 
@@ -83,3 +85,49 @@ Started 3 November 2026. Each authority is checked once and then reused without 
 | Al-Alwi v. Trump | 901 F.3d 294 | D.C. Cir. 2018 | CL-A | 13 |
 | Proclamation No. 10903 | 90 Fed. Reg. 13,033 (Mar. 20, 2025) | signed Mar. 14, 2025 | WS | 12, 13 |
 | FinCEN BOI final rule (CTA, 31 U.S.C. § 5336) | published Aug. 14, 2026 | permanent exemption for U.S. entities and U.S. persons; statute not repealed | WS | 11 |
+| Rochin v. California | 342 U.S. 165 | SCOTUS 1952 | CL-C | 14 |
+| United States v. Reynolds | 345 U.S. 1 | SCOTUS 1953 | CL-C | 14 |
+| El-Masri v. United States | 479 F.3d 296 | 4th Cir. 2007 | CL-C | 14 |
+| Rasul v. Myers | 563 F.3d 527 | D.C. Cir. 2009 | CL-C | 14 |
+| Arar v. Ashcroft | 585 F.3d 559 | 2d Cir. 2009 (en banc) | CL-C | 14 |
+| Mohamed v. Jeppesen Dataplan | 614 F.3d 1070 | 9th Cir. 2010 (en banc) | CL-C | 14 |
+| Ali v. Rumsfeld | 649 F.3d 762 | D.C. Cir. 2011 | CL-C | 14 |
+| Lebron v. Rumsfeld | 670 F.3d 540 | 4th Cir. 2012 | CL-C | 14 |
+| Padilla v. Yoo | 678 F.3d 748 | 9th Cir. 2012 | CL-C | 14 |
+| Al Shimari v. CACI | 840 F.3d 147 | 4th Cir. 2016 | CL-C | 14 |
+| Al Shimari v. CACI (post-verdict) | No. 25-1043 (4th Cir.) | verdict affirmed Mar. 12, 2026; reversed on rehearing after Cisco, Aug. 28, 2026 (reported by plaintiffs' counsel and trade press) | WS | 14 |
+| Salim v. Mitchell | 268 F. Supp. 3d 1132 | E.D. Wash. 2017 | CL-C | 14 |
+| United States v. Zubaydah | 595 U.S. 195 | SCOTUS 2022 | CL-C | 14 |
+| Cisco Systems, Inc. v. Doe I | No. 24-856 (U.S. June 23, 2026) | SCOTUS 2026, 6–3; no new ATS causes of action; no TVPA aiding-and-abetting liability | WS | 14 |
+| United States v. Belfast | 611 F.3d 783 | 11th Cir. 2010 | CL-D | 14 |
+| EO 13491 / 42 U.S.C. § 2000dd-2 | 74 Fed. Reg. 4893; Pub. L. No. 114-92, § 1045 | no revocation found | WS | 14 |
+| Scales v. United States | 367 U.S. 203 | SCOTUS 1961 | CL-C | 15 |
+| Brandenburg v. Ohio | 395 U.S. 444 | SCOTUS 1969 | CL-C | 15 |
+| PMOI v. Dep't of State | 182 F.3d 17 | D.C. Cir. 1999 | CL-C | 15 |
+| NCRI v. Dep't of State | 251 F.3d 192 | D.C. Cir. 2001 | CL-C | 15 |
+| United States v. Hammoud | 381 F.3d 316 | 4th Cir. 2004 (en banc) | CL-C | 15 |
+| United States v. Afshari | 426 F.3d 1150 | 9th Cir. 2005 | CL-C | 15 |
+| Boim v. Holy Land Found. | 549 F.3d 685 | 7th Cir. 2008 (en banc) | CL-C | 15 |
+| In re Terrorist Bombings (United States v. Odeh) | 552 F.3d 157 | 2d Cir. 2008 | CL-C | 15 |
+| United States v. Stewart | 590 F.3d 93 | 2d Cir. 2009 | CL-C | 15, 16 |
+| United States v. Awan | 607 F.3d 306 | 2d Cir. 2010 | CL-C | 15 |
+| PMOI v. Dep't of State | 613 F.3d 220 | D.C. Cir. 2010 | CL-C | 15 |
+| United States v. Farhane | 634 F.3d 127 | 2d Cir. 2011 | CL-C | 15 |
+| United States v. Jayyousi | 657 F.3d 1085 | 11th Cir. 2011 | CL-C | 15 |
+| United States v. Shibin | 722 F.3d 233 | 4th Cir. 2013 | CL-C | 15 |
+| United States v. Mehanna | 735 F.3d 32 | 1st Cir. 2013 | CL-C | 15 |
+| Twitter, Inc. v. Taamneh | 598 U.S. 471 | SCOTUS 2023 | CL-C | 15 |
+| Fuld v. PLO | 606 U.S. 1 | SCOTUS 2025 | CL-C | 15 |
+| FTO designations (8 cartels and gangs) | FR Doc. 2025-02873 (Feb. 20, 2025); 2026 additions June 5 and July 16, 2026 | State Dept. | WS | 15 |
+| Roviaro v. United States | 353 U.S. 53 | SCOTUS 1957 | CL-C | 16 |
+| New York v. Quarles | 467 U.S. 649 | SCOTUS 1984 | CL-D | 16 |
+| United States v. Yunis | 867 F.2d 617 | D.C. Cir. 1989 | CL-C | 16 |
+| Dickerson v. United States | 530 U.S. 428 | SCOTUS 2000 | CL-C | 16 |
+| United States v. Moussaoui | 382 F.3d 453; 591 F.3d 263 | 4th Cir. 2004, 2010 | CL-C | 16 |
+| United States v. Abu Ali | 528 F.3d 210 | 4th Cir. 2008 | CL-C | 16 |
+| United States v. Aref | 533 F.3d 72 | 2d Cir. 2008 | CL-C | 16 |
+| Hamdan v. United States | 696 F.3d 1238 | D.C. Cir. 2012 | CL-C | 16 |
+| United States v. Ghailani | 733 F.3d 29 | 2d Cir. 2013 | CL-C | 16 |
+| Al Bahlul v. United States | 767 F.3d 1; 840 F.3d 757 | D.C. Cir. 2014, 2016 (en banc) | CL-C | 16 |
+| In re Al-Nashiri | 921 F.3d 224 | D.C. Cir. 2019 | CL-C | 16 |
+| In re United States (9/11 plea agreements) | D.C. Cir. July 2025 (2–1); cert. denied Oct. 2026; trial set June 2028 | | WS | 16 |
