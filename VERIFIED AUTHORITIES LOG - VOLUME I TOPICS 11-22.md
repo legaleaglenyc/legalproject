@@ -16,6 +16,8 @@ Started 3 November 2026. Each authority is checked once and then reused without 
 - CL-B = CourtListener citation analysis, batch B
 - CL-C = CourtListener citation analysis, batch C
 - CL-D = CourtListener citation analysis, batch D
+- CL-E = CourtListener citation analysis, batch E
+- CL-F = CourtListener citation analysis, batch F
 - CL-S = CourtListener search
 - WS = web search
 
@@ -131,3 +133,50 @@ Started 3 November 2026. Each authority is checked once and then reused without 
 | Al Bahlul v. United States | 767 F.3d 1; 840 F.3d 757 | D.C. Cir. 2014, 2016 (en banc) | CL-C | 16 |
 | In re Al-Nashiri | 921 F.3d 224 | D.C. Cir. 2019 | CL-C | 16 |
 | In re United States (9/11 plea agreements) | D.C. Cir. July 2025 (2–1); cert. denied Oct. 2026; trial set June 2028 | | WS | 16 |
+| Sorrells v. United States | 287 U.S. 435 | SCOTUS 1932 | CL-E | 17 |
+| Sherman v. United States | 356 U.S. 369 | SCOTUS 1958 | CL-E | 17 |
+| United States v. Russell | 411 U.S. 423 | SCOTUS 1973 | CL-E | 17 |
+| Hampton v. United States | 425 U.S. 484 | SCOTUS 1976 | CL-E | 17 |
+| Mathews v. United States | 485 U.S. 58 | SCOTUS 1988 | CL-E | 17 |
+| Jacobson v. United States | 503 U.S. 540 | SCOTUS 1992 | CL-E | 17 |
+| United States v. Twigg | 588 F.2d 373 | 3d Cir. 1978 | CL-F | 17 |
+| United States v. Hollingsworth | 27 F.3d 1196 | 7th Cir. 1994 (en banc) | CL-E | 17 |
+| United States v. Cromitie | 727 F.3d 194 | 2d Cir. 2013 | CL-E | 17 |
+| United States v. Mayfield | 771 F.3d 417 | 7th Cir. 2014 (en banc) | CL-E | 17 |
+| United States v. Mohamud | 843 F.3d 420 | 9th Cir. 2016 | CL-E | 17 |
+| United States v. Muhtorov | 20 F.4th 558 | 10th Cir. 2021 | CL-E | 17 |
+| United States v. Abu Khatallah | 41 F.4th 608 | D.C. Cir. 2022 | CL-E | 17 |
+| United States v. Abu Khatallah | 2017 WL 3534989 | D.D.C. Aug. 16, 2017 | WS | 17 |
+| United States v. Abdulmutallab | No. 10-20005, 2011 WL 4345243 | E.D. Mich. Sept. 16, 2011 | WS | 17 |
+| Miranda v. Arizona | 384 U.S. 436 | SCOTUS 1966 | CL-E | 17 |
+| Corley v. United States | 556 U.S. 303 | SCOTUS 2009 | CL-E | 17 |
+| Missouri v. Seibert | 542 U.S. 600 | SCOTUS 2004 | CL-F | 17 |
+| Clapper v. Amnesty Int'l USA | 568 U.S. 398 | SCOTUS 2013 | CL-F | 17 |
+| Section 702 status | short-term extensions Apr. 17 and Apr. 30, 2026; status after mid-June 2026 not confirmed in the permitted search; deferred to Topic 10 | | WS | 17 |
+| Hess v. Indiana | 414 U.S. 105 | SCOTUS 1973 | CL-E | 18 |
+| NAACP v. Claiborne Hardware | 458 U.S. 886 | SCOTUS 1982 | CL-E | 18 |
+| Wisconsin v. Mitchell | 508 U.S. 476 | SCOTUS 1993 | CL-E | 18 |
+| Virginia v. Black | 538 U.S. 343 | SCOTUS 2003 | CL-E | 18 |
+| Elonis v. United States | 575 U.S. 723 | SCOTUS 2015 | CL-E | 18 |
+| United States v. Miselis | 972 F.3d 518 | 4th Cir. 2020 | CL-E | 18 |
+| United States v. Rundo | 990 F.3d 709 | 9th Cir. 2021 | CL-E | 18 |
+| Counterman v. Colorado | 600 U.S. 66 | SCOTUS 2023 | CL-E | 18 |
+| United States v. Rahimi | 602 U.S. 680 | SCOTUS 2024 | CL-E | 18 |
+| Fischer v. United States | 603 U.S. 480 | SCOTUS 2024 | CL-E | 18 |
+| United States v. Armstrong | 517 U.S. 456 | SCOTUS 1996 | CL-F | 18 |
+| Jan. 6 seditious conspiracy cases (Rhodes; Nordean) | DOJ motions to vacate, D.C. Cir., Apr. 14, 2026 | vacatur and dismissal reported in the draft NOT confirmed | WS | 18 |
+| NSPM-7; Antifa designation EO | Sept. 25, 2025; Sept. 22, 2025; AG implementing memo Dec. 4, 2025 | in effect | WS | 18 |
+| Bridges v. Wixon | 326 U.S. 135 | SCOTUS 1945 | CL-E | 19 |
+| Knauff v. Shaughnessy | 338 U.S. 537 | SCOTUS 1950 | CL-E | 19 |
+| Harisiades v. Shaughnessy | 342 U.S. 580 | SCOTUS 1952 | CL-E | 19 |
+| Shaughnessy v. Mezei | 345 U.S. 206 | SCOTUS 1953 | CL-E | 19 |
+| Kleindienst v. Mandel | 408 U.S. 753 | SCOTUS 1972 | CL-E | 19 |
+| Reno v. AADC | 525 U.S. 471 | SCOTUS 1999 | CL-E | 19 |
+| Khan v. Holder | 584 F.3d 773 | 9th Cir. 2009 | CL-E | 19 |
+| Annachamy v. Holder | 733 F.3d 254 | 9th Cir. 2013 | CL-E | 19 |
+| Kerry v. Din | 576 U.S. 86 | SCOTUS 2015 | CL-E | 19 |
+| Department of State v. Munoz | 602 U.S. 899 | SCOTUS 2024 | CL-E | 19 |
+| Dep't of Agric. v. Moreno | 413 U.S. 528 | SCOTUS 1973 | CL-F | 19 |
+| Romer v. Evans | 517 U.S. 620 | SCOTUS 1996 | CL-F | 19 |
+| Proclamations 10949 and 10998 | 90 Fed. Reg. 24,497; 90 Fed. Reg. 59,717 | in force; no merits ruling found | WS | 19 |
+| AAUP v. Rubio | D. Mass. Sept. 30, 2025; judgment Jan. 22, 2026; stay denied Mar. 11, 2026; 1st Cir. appeal pending | | WS | 19 |
