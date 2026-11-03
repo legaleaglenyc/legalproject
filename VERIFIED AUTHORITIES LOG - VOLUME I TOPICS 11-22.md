@@ -18,6 +18,8 @@ Started 3 November 2026. Each authority is checked once and then reused without 
 - CL-D = CourtListener citation analysis, batch D
 - CL-E = CourtListener citation analysis, batch E
 - CL-F = CourtListener citation analysis, batch F
+- CL-G = CourtListener citation analysis, batch G
+- CL-H = CourtListener citation analysis, batch H
 - CL-S = CourtListener search
 - WS = web search
 
@@ -180,3 +182,44 @@ Started 3 November 2026. Each authority is checked once and then reused without 
 | Romer v. Evans | 517 U.S. 620 | SCOTUS 1996 | CL-F | 19 |
 | Proclamations 10949 and 10998 | 90 Fed. Reg. 24,497; 90 Fed. Reg. 59,717 | in force; no merits ruling found | WS | 19 |
 | AAUP v. Rubio | D. Mass. Sept. 30, 2025; judgment Jan. 22, 2026; stay denied Mar. 11, 2026; 1st Cir. appeal pending | | WS | 19 |
+| Martin v. Mott | 25 U.S. (12 Wheat.) 19 | SCOTUS 1827 | CL-G | 20 |
+| Luther v. Borden | 48 U.S. (7 How.) 1 | SCOTUS 1849 | CL-G | 20 |
+| In re Debs | 158 U.S. 564 | SCOTUS 1895 | CL-G | 20 |
+| Sterling v. Constantin | 287 U.S. 378 | SCOTUS 1932 | CL-G | 20 |
+| Duncan v. Kahanamoku | 327 U.S. 304 | SCOTUS 1946 | CL-G | 20 |
+| Laird v. Tatum | 408 U.S. 1 | SCOTUS 1972 | CL-G | 20 |
+| INS v. Chadha | 462 U.S. 919 | SCOTUS 1983 | CL-H | 20 |
+| Bissonette v. Haig | 776 F.2d 1384 | 8th Cir. 1985 (en banc) | CL-G | 20 |
+| United States v. Dreyer | 804 F.3d 1266 | 9th Cir. 2015 (en banc) | CL-G | 20 |
+| Newsom v. Trump | 141 F.4th 1032 (June 19, 2025); No. 25-7781 (Oct. 23, 2026) | 9th Cir. | CL-S + WS | 20 |
+| Oregon v. Trump | No. 25-7194 (9th Cir.) | Government dropped its appeal, Feb. 2026 | CL-S + WS | 20 |
+| Insurrection Act | not invoked as of Nov. 2026 (no invocation found) | | WS | 20 |
+| Military and Paramilitary Activities (Nicar. v. U.S.) | 1986 I.C.J. 14 (June 27) | ICJ 1986 | WS | 21 |
+| United States v. Nosal | 676 F.3d 854 | 9th Cir. 2012 (en banc) | CL-G | 21 |
+| Microsoft Corp. v. United States | 829 F.3d 197 | 2d Cir. 2016 | CL-G | 21 |
+| United States v. Microsoft Corp. | 584 U.S. 236 | SCOTUS 2018 | CL-G | 21 |
+| Van Buren v. United States | 593 U.S. 374 | SCOTUS 2021 | CL-G | 21 |
+| hiQ Labs v. LinkedIn | 31 F.4th 1180 | 9th Cir. 2022 | CL-G | 21 |
+| CISA 2015 status | lapsed Sept. 30, 2025; revived Nov. 2025; extended through Dec. 2026 by Sept. 2026 CR (exact date not confirmed) | | WS | 21 |
+| New York Times Co. v. United States | 403 U.S. 713 | SCOTUS 1971 | CL-G | 22 |
+| Branzburg v. Hayes | 408 U.S. 665 | SCOTUS 1972 | CL-G | 22 |
+| EPA v. Mink | 410 U.S. 73 | SCOTUS 1973 | CL-H | 22 |
+| United States v. Progressive | 467 F. Supp. 990 | W.D. Wis. 1979 | CL-G | 22 |
+| Snepp v. United States | 444 U.S. 507 | SCOTUS 1980 | CL-G | 22 |
+| Halperin v. CIA | 629 F.2d 144 | D.C. Cir. 1980 | CL-G | 22 |
+| Military Audit Project v. Casey | 656 F.2d 724 | D.C. Cir. 1981 | CL-G | 22 |
+| McGehee v. Casey | 718 F.2d 1137 | D.C. Cir. 1983 | CL-G | 22 |
+| CIA v. Sims | 471 U.S. 159 | SCOTUS 1985 | CL-G | 22 |
+| Department of the Navy v. Egan | 484 U.S. 518 | SCOTUS 1988 | CL-G | 22 |
+| United States v. Morison | 844 F.2d 1057; cert. denied, 488 U.S. 908 | 4th Cir. 1988 | CL-G, CL-H | 22 |
+| Bartnicki v. Vopper | 532 U.S. 514 | SCOTUS 2001 | CL-G | 22 |
+| United States v. Rosen | 445 F. Supp. 2d 602 | E.D. Va. 2006 | CL-G | 22 |
+| United States v. Kim | 808 F. Supp. 2d 44 | D.D.C. 2011 | CL-G | 22 |
+| United States v. Sterling | 724 F.3d 482 | 4th Cir. 2013 | CL-G | 22 |
+| Edgar v. Haines | 2 F.4th 298 | 4th Cir. 2021 | CL-G | 22 |
+| Wikimedia Found. v. NSA | 14 F.4th 276 | 4th Cir. 2021; cert. denial reporter cite (143 S. Ct. 774) not confirmed, so dropped | CL-G | 22 |
+| EO 13526 | 75 Fed. Reg. 707 | in force; no amendment found | WS | 22 |
+
+## Statutes
+
+Statute and Public Law citations were checked once against the Topic 1 baseline and the U.S. Code sections as cited. Where a Statutes at Large page could not be confirmed, the pin page was removed (FY2019 NDAA in Topic 21). No separate search was run for each long-standing U.S. Code section.
